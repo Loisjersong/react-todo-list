@@ -9,7 +9,7 @@
 ![Unit Test Demo](/assets/vitest-demo.gif)
 
 ### 🧪 E2E Test Demo
-![E2E Test Demo](/assetsvitest-demo.gif)
+![E2E Test Demo](/assets/playwright-demo.gif)
 
 
 # 📝 Features
