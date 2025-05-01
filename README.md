@@ -3,13 +3,13 @@
 ## 📺 Demo
 
 ### 📝 Todo List App
-![Todo Demo](assets\todo-demo.gif)
+![Todo Demo](/assets/todo-demo.gif)
 
 ### 🧪 Unit Test Demo
-![Unit Test Demo](assets\vitest-demo.gif)
+![Unit Test Demo](/assets/vitest-demo.gif)
 
 ### 🧪 E2E Test Demo
-![E2E Test Demo](assets\vitest-demo.gif)
+![E2E Test Demo](/assetsvitest-demo.gif)
 
 
 # 📝 Features
